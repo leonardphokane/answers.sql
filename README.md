@@ -1,4 +1,4 @@
-## Create database
+#Create database
 CREATE DATABASE SalesDB;
 USE SalesDB;
 ALTER DATABASE OldSalesDB MODIFY NAME = NewSalesDB;
