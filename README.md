@@ -1,6 +1,4 @@
-!--Create database--
+!--Create database and drop the database demo--
 CREATE DATABASE salesDB;
-!--Use the database salesDB--
 USE SalesDB;
-!--Drop the database demo--
 DROP DATABASE demo;
